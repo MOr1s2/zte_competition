@@ -1,0 +1,64 @@
+Test Acc on a=0.0001 and size=(41, 16)：  0.83104
+Test Acc on a=0.0005 and size=(41, 16)：  0.82990
+Test Acc on a=0.0005 and size=(41, 16)：  0.83276
+Test Acc on a=0.0005 and size=(256, 64)：  0.84364
+Test Acc on a=0.001 and size=(256, 64)：  0.82818
+Test Acc on a=0.0005 and size=(256, 32)：  0.84479
+Test Acc on a=0.0005 and size=(256, 32)：  0.84593
+Test Acc on a=0.0005 and size=(512, 64)：  0.84021
+Test Acc on a=0.0005 and size=(256, 64)：  0.83333
+Test Acc on a=0.0005 and size=(256, 16)：  0.84765
+Test Acc on a=0.0005 and size=(256, 16)：  0.84021
+Test Acc on a=0.0005 and size=(256, 32)：  0.85510
+Test Acc on a=0.0005,size=(256, 32),threshold=1000.0：  0.58992
+Test Acc on a=0.0005,size=(256, 32),threshold=1000.0：  0.44362
+Test Acc on a=0.0005,size=(256, 32),threshold=10000.0：  0.37798
+Test Acc on a=0.0005,size=(256, 32),threshold=10000.0：  0.36474
+Test Acc on a=0.0005,size=(256, 32),threshold=10000.0：  0.38221
+Test Acc on a=0.0005,size=(256, 32),threshold=100.0：  0.56167
+Test Acc on a=0.0005,size=(256, 32),threshold=10：  0.56644
+Test Acc on a=0.0005,size=(256, 32),threshold=5：  0.57597
+Test Acc on a=0.0005,size=(256, 32),threshold=1：  0.61990
+Test Acc on a=0.0005,size=(256, 32),threshold=0.1：  0.78031
+Test Acc on a=0.0005,size=(256, 32),threshold=0.01：  0.78825
+Test Acc on a=0.0005,size=(256, 32),threshold=0.01：  0.78772
+Test Acc on a=0.0005,size=(256, 32),threshold=0.01：  0.78560
+Test Acc on a=0.0005,size=(256, 32),threshold=0.001：  0.78613
+Test Acc on a=0.0005,size=(256, 32),threshold=0.0001：  0.78613
+Test Acc on a=0.0005,size=(256, 32),threshold=1e-05：  0.78931
+Test Acc on a=0.0005,size=(256, 32)：  0.79354
+Test Acc on a=0.0005,size=(256, 32)：  0.77766
+Test Acc on a=0.0005,size=(256, 32)：  0.78772
+Test Acc on a=0.0005,size=(256, 32)：  0.77395
+Test Acc on a=0.0005,size=(256, 32)：  0.83377
+Test Acc on a=0.0005,size=(256, 32)：  0.86827
+Test Acc on a=0.0005,size=(64, 16)：  0.87113
+Test Acc on a=0.005,size=(64, 16)：  0.86025
+Test Acc on a=0.0001,size=(64, 16)：  0.85624
+Test Acc on a=0.0005,size=(64, 16)：  0.86254
+Test Acc on a=0.0005,size=(256, 64)：  0.86140
+Test Acc on a=0.0005,size=(64, 16)：  0.85281
+Test Acc on a=0.0005,size=(64, 16)：  0.86082
+Test Acc on a=0.0005,size=(64, 16)：  0.88660
+Test Acc on a=0.0005,size=(64, 16)：  0.86712
+Test Acc on a=0.0005,size=(64, 16)：  0.87228
+Test Acc on a=0.0005,size=(64, 16)：  0.87285
+Test Acc on a=0.0001,size=(64, 16)：  0.86197
+Test Acc on a=0.001,size=(64, 16)：  0.88373
+Test Acc on a=0.001,size=(64, 16)：  0.88202
+Test Acc on a=0.001,size=(256, 64)：  0.88373
+Test Acc on a=0.001,size=(256, 64)：  0.89175
+Test Acc on a=0.001,size=(256, 64)：  0.88202
+Test Acc on a=0.001,size=(64, 16)：  0.87743
+Test Acc on a=0.005,size=(64, 16)：  0.87056
+Test Acc on a=0.001,size=(256, 64)：  0.87514
+Test Acc on a=0.0005,size=(64, 16)：  0.87400
+Test Acc on a=0.0005,size=(64, 16)：  0.87514
+Test Acc on a=0.001,size=(64, 16)：  0.8723
+Test Acc on a=0.001,size=(256, 32)：  0.8792
+Test Acc on a=0.001,size=(256, 32)：  0.8820
+Test Acc on a=0.001,size=(128, 32)：  0.8826
+Test Acc on a=0.001,size=(256, 64)：  0.8929
+Test Acc on a=0.001,size=(256, 64)：  0.8860  0.8912
+Test Acc on a=0.001,size=(256, 64)：  0.8929  89.8198
+Test Acc on a=0.001,size=(256, 64)：  0.8080  83.1413
